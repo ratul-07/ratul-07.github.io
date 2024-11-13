@@ -1,6 +1,4 @@
-<div class="markdown-background">
-
-
+<link rel="stylesheet" href="styles.css">
 ---
 permalink: /
 title: "👋 Hello there, welcome to my Academic Website"
@@ -9,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div class="markdown-background">
 ![Homepage img](/images/websitehomepage.jpeg){: .align-right width="300px"}
 
 🖋️ Let me introduce myself, my name is Ratul Sur and I am from West Bengal, India.
