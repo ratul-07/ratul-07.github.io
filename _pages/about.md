@@ -1,17 +1,13 @@
 ---
 permalink: /
-title: "Hello there, welcome to my Academic Website"
+title: "👋Hello there, My name is Ratul Sur"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Homepage img](/images/websitehomepage.jpeg){: .align-right width="400px"}
-My name is Ratul Sur.
+![Homepage img](/images/websitehomepage.jpeg){: .align-right width="300px"}
+🎓 I hold a Bachelor's Degree in Engineering from Academy of Technology, Hooghly
 
-### Education
-  * B.E., Computer Science | Academy of Technology, Hooghly, West Bengal (_June 2024_)
-  * AISSCE, PCM | Lord Buddha Public School, Kota, Rajasthan (_March 2020_)
-  * AISSE, Gen | Techno India Group Public School, Hooghly, West Bengal (_March 2018_)
 
