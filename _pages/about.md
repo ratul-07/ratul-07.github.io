@@ -38,7 +38,7 @@ During my Bachelor's thesis, I collaborated on a group research project focused 
 
 ## Project Experience
 
-During my Bachelor's I have created numerous projects ranging from basic data science projects like the famous Titanic Survival Prediction using logistic regression to various end to end deployed projects like Churn Prediction Model using Mutli Layered Perceptron. I have also expertise in different NLP projects such as Sentiment Analysis, Spam Classification, etc. You can find all my projects in the portolio Section.
+During my Bachelor's I have created numerous projects ranging from basic data science projects like the famous Titanic Survival Prediction using logistic regression to various end to end deployed projects like Churn Prediction Model using Multi Layered Perceptron. I have also expertise in different NLP projects such as Sentiment Analysis, Spam Classification, etc. You can find all my projects listed in the Portfolio section.
 
 
 
