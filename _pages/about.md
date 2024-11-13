@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Homepage img](/images/websitehomepage.jpeg){.align-right width="400px"}
+![Homepage img](/images/websitehomepage.jpeg){: .align-right width="400px"}
 My name is Ratul Sur.
 
 ### Education
