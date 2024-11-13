@@ -18,7 +18,7 @@ redirect_from:
 
 # Overview
 
-## Academic Expertise 
+## 📖 Academia
 
 I have completed the following relevant courses during my Bachelor's which are related to the domain of Data Science:
 
@@ -31,11 +31,14 @@ I have completed the following relevant courses during my Bachelor's which are r
 | Data Mining and Analytics         | Image Processing           |
 | Big Data Analytics                | Database Management System | 
 
-## Research Experience
+## 📜 Research Experience
 
-I have experience in group research during my Bachelor's Thesis, where I have used various machine learning models to replicate the behaviour and working of the popular
-ranking system of ICC (International Cricket Council) to rank cricket bowlers in the One Day International format. Moreover I have presented the respective paper in the 4th International Conference
-on Computer, Communication, Control and Information Technology 2024 [C3IT], IEEE, 2024. You can find more details about the conference [here](https://c3it2024.aot.edu.in/#about).
+
+During my Bachelor's thesis, I collaborated on a group research project focused on utilizing various machine learning models to replicate the behavior and functionality of the ICC (International Cricket Council) ranking system. Our goal was to use different approaches and fin out the best one to rank cricket bowlers in the One Day International (ODI) format that closely resembles the ICC ranking system. The findings of this research were presented at the 4th International Conference on Computer, Communication, Control, and Information Technology (C3IT 2024), organized by IEEE. For more information about the conference, you can visit [C3IT 2024](https://c3it2024.aot.edu.in/#about).
+
+## Project Experience
+
+During my Bachelor's I have created numerous projects ranging from basic data science projects like the famous Titanic Survival Prediction using logistic regression to various end to end deployed projects like Churn Prediction Model using Mutli Layered Perceptron. I have also expertise in different NLP projects such as Sentiment Analysis, Spam Classification, etc. You can find all my projects in the portolio Section.
 
 
 
