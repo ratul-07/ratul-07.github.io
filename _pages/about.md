@@ -9,9 +9,9 @@ redirect_from:
 
 ![Homepage img](/images/websitehomepage.jpeg){: .align-right width="300px"}
 
-🖋️ Let me introduce myself, My name is Ratul Sur. I am from West Bengal, India.
+🖋️ Let me introduce myself, my name is Ratul Sur and I am from West Bengal, India.
 
-🎓 I hold a Bachelor's Degree in Engineering from Academy of Technology, Hooghly.
+🎓 I hold a Bachelor's Degree in Engineering from Academy of Technology, West Bengal.
 
 💻 My interests include Data Science, Deep Learning, Natural Language Processing and Gen-AI.
 
