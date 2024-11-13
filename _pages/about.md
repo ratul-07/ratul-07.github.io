@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hello there, My name is Ratul Sur"
+title: "👋 Hello there, welcome to my Academic Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 ![Homepage img](/images/websitehomepage.jpeg){: .align-right width="300px"}
+
+🖋️ Let me introduce myself, My name is Ratul Sur. I am from West Bengal, India.
+
 🎓 I hold a Bachelor's Degree in Engineering from Academy of Technology, Hooghly.
 
 💻 My interests include Data Science, Deep Learning, Natural Language Processing and Gen-AI.
