@@ -1,9 +1,8 @@
 ---
 title: "An Empirical Study of Machine Learning Techniques for ODI Bowler Performance Evaluation"
-collection: publications
+  collection: publications
 permalink: /publication/2024-ODI-Ranking-C3IT
-excerpt: 
-'The objective of the paper is to construct an innovative ranking system based on various Machine Learning (ML) techniques specifically tailored for One Day International (ODI) male players.
+excerpt: 'The objective of the paper is to construct an innovative ranking system based on various Machine Learning (ML) techniques specifically tailored for One Day International (ODI) male players.
   It aims to create a recommender system that produces bowler rankings closely aligned with the International Cricket Council (ICC) Rankings, with a focus on enhancing accuracy and reliability.
   The dataset encompasses a wide range of match parameters, performance metrics, and player statistics, providing a comprehensive foundation for insightful analysis.
   By employing data-driven techniques, the paper aims to highlight key performance indicators that significantly influence bowler rankings.
