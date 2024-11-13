@@ -37,7 +37,7 @@ I have completed the following relevant courses during my Bachelor's which are r
 ## 📜 Research Experience
 
 
-During my Bachelor's thesis, I collaborated on a group research project focused on utilizing various machine learning models to replicate the behavior and functionality of the ICC (International Cricket Council) ranking system. Our goal was to use different approaches and fin out the best one to rank cricket bowlers in the One Day International (ODI) format that closely resembles the ICC ranking system. The findings of this research were presented at the 4th International Conference on Computer, Communication, Control, and Information Technology (C3IT 2024), organized by IEEE. For more information about the conference, you can visit [C3IT 2024](https://c3it2024.aot.edu.in/#about).
+During my Bachelor's thesis, I collaborated on a group research project focused on utilizing various machine learning models to replicate the behavior and functionality of the ICC (International Cricket Council) ranking system. Our goal was to use different approaches and find out the best one to rank cricket bowlers in the One Day International (ODI) format that closely resembles the ICC ranking system. The findings of this research were presented at the 4th International Conference on Computer, Communication, Control, and Information Technology (C3IT 2024), organized by IEEE. For more information about the conference, you can visit [C3IT 2024](https://c3it2024.aot.edu.in/#about).
 
 ## Project Experience
 
