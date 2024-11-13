@@ -25,6 +25,7 @@ redirect_from:
 
 I have completed the following relevant courses during my Bachelor's which are related to the domain of Data Science:
 
+|          Subjects I               |       Subjects II          |
 |     :------------------------:    |   :--------------------:   |
 | Mathematics                       | Mathematics-IIA            |
 | Data Structure and Algorithms     | Discrete Mathematics       |
