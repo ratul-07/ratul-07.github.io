@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="styles.css">
 ---
 permalink: /
 title: "👋 Hello there, welcome to my Academic Website"
@@ -7,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="markdown-background">
+
 ![Homepage img](/images/websitehomepage.jpeg){: .align-right width="300px"}
 
 🖋️ Let me introduce myself, my name is Ratul Sur and I am from West Bengal, India.
@@ -44,6 +43,4 @@ During my Bachelor's thesis, I collaborated on a group research project focused 
 ## Project Experience
 
 During my Bachelor's I have created numerous projects ranging from basic data science projects like the famous Titanic Survival Prediction using logistic regression to various end to end deployed projects like Churn Prediction Model using Multi Layered Perceptron. I have also expertise in different NLP projects such as Sentiment Analysis, Spam Classification, etc. You can find all my projects listed in the Portfolio section.
-
-</div>
 
