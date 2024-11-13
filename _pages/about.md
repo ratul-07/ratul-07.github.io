@@ -18,5 +18,18 @@ I'm also interested in collaborating with folks for research publications in the
 
 # Academic Expertise 
 
+I have completed the following relevant courses during my Bachelor's which are related to this particular domain:
+
+|:---------------------------------:|:--------------------------:|
+| Mathematics                       | Mathematics-IIA            |
+| Data Structure and Algorithms     | Discrete Mathematics       |
+| Object Oriented Programming       | Computational Statistics   | 
+| Machine Learning                  | Artificial Intelligence    | 
+| Design and Analysis of Algorithms | Pattern Recognition        |
+| Data Mining and Analytics         | Image Processing           |
+| Big Data Analytics                | Database Management System | 
+
+
+
 
 
