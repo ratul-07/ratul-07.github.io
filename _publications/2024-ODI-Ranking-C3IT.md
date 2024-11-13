@@ -7,5 +7,5 @@ It aims to create a recommender system that produces bowler rankings closely ali
 encompasses a wide range of match parameters, performance metrics, and player statistics, providing a comprehensive foundation for insightful analysis. By employing data-driven techniques, the paper aims 
 to highlight key performance indicators that significantly influence bowler rankings. We performed an analysis among five machine learning models that can produce rankings of bowlers and select the best 
 model whose predictions are closest to the ICC's official rankings. The rankings obtained from the five machine learning algorithms have been compared with the ICC rankings utilizing the Spearman Rank
-Correlation Coefficient. The results highlight the Artificial Neural Networks (Multi-Layered Perceptron) exhibit the best outcome with a rank correlation coefficient of 0.7550'
+Correlation Coefficient. The results highlight the Artificial Neural Networks (Multi-Layered Perceptron) exhibit the best outcome with a rank correlation coefficient of 0.7550'.
 ---
