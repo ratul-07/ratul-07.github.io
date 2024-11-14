@@ -38,24 +38,16 @@ I have completed the following relevant courses during my Bachelor's which are r
 ## 💻 Technical Skills
 
 
-|  Skills I     |       Skills II             |
-|     :----:    |   :--------------------:    |
-| Python        | Numpy                       |
-| MySQL         | Pandas                      |
-| Pytorch       | Predictive Analysis         | 
-| Keras         | Machine Learning            | 
-| Tensorflow    | Deep Learning               |
-| Scikit-Learn  | Natural Language Processing |
-| Matplotlib    | Descriptive Analysis        | 
+|        Skills I            |       Skills II             |
+|     :----:                 |   :--------------------:    |
+| Python                     | Numpy                       |
+| MySQL                      | Pandas                      |
+| Pytorch                    | Predictive Analysis         | 
+| Keras                      | Machine Learning            | 
+| Tensorflow                 | Deep Learning               |
+| Scikit-Learn               | Natural Language Processing |
+| Matplotlib                 | Descriptive Analysis        | 
 
-* Python               * Numpy
-* MySQL                * Pandas
-* Pytorch              * Predictive Analysis
-* Keras                * Machine Learning
-* Tensorflow           * Deep Learning
-* Scikit-Learn         * Natural Language Processing
-* Matplotlib           * Descriptive Analysis
-  
 
 ## 📜 Research Experience
 
